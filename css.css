@@ -33,7 +33,7 @@ body {
 .pokedex-title {
     position: absolute;
     top: 5%;
-    left: 100%;
+    left: 80%;
     transform: translateX(-50%);
     font-family: 'Press Start 2P', cursive;
     font-size: 30px;
